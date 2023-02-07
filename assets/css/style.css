@@ -127,7 +127,7 @@ li:hover a{
     opacity: 0.5;
 
 }
-.portfolio-main h1 {
+.portfolio-main h2 {
     background-color: #CBEDD5;
     position: absolute;
     padding: 20px;
@@ -163,7 +163,7 @@ li:hover a{
     position: relative;
 }
 
-.project-2 h1{
+.project-2 h2{
     position: absolute;
     background-color: #CBEDD5;
     padding: 10px;
@@ -181,7 +181,7 @@ li:hover a{
     position: relative;
     opacity: 0.5;
 }
-.project-3 h1 {
+.project-3 h2 {
     position: absolute;
     background-color: #CBEDD5;
     padding: 10px;
@@ -203,7 +203,7 @@ li:hover a{
    position: relative;
 }
 
-.project-4 h1 {
+.project-4 h2 {
     position: absolute;
     background-color: #CBEDD5;
     padding: 10px;
@@ -225,7 +225,7 @@ li:hover a{
    position: relative;
 }
 
-.project-5 h1 {
+.project-5 h2 {
     position: absolute;
     background-color: #CBEDD5;
     padding: 10px;
