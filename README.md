@@ -30,9 +30,8 @@ Created a website that looks like the mock-up: Name, photo, nav links, work, and
 Made the website interactive: Nav links connect to page, Work section links to outside pages, Contact links link to contacts.
 Created Media Screen query so that it is responsive across desktop, tablet, mobile
 ```
-![final image of assignment](./assets/images/screenshot1.png)
+![final image of assignment](./assets/css/screenshot1.png)
+![final image of assignment](./assets/css/screenshot2.png)
+![final image of assignment](./assets/css/screenshot3.png)
 
-![final image of assignment](./assets/images/screenshot2.png)
-
-# https://josephreis646.github.io/seo-challenge1/
-
+# https://josephreis646.github.io/Portfolio-Module2/
