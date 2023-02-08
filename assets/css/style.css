@@ -20,18 +20,23 @@ body {
 
 
 .logo {
-    margin-top: 15px;
-    margin-bottom: 15px;
-    padding-right: 5px;
-    padding-left: 50px;
+    margin:15px 0 15px 0;
+    padding: 0 50px 0 5px;
     font-size: 45px;
     background-color: aliceblue;
 }
+
+.nav-links {
+    display: flex;
+    justify-content: flex-end;
+}
+
 .nav-links a {
     text-decoration: none;
     color: green;
     border-bottom: 3px solid darkgreen;
     padding-bottom: 3px;
+    font-size: 20px;
 }
 
 li:hover a{
@@ -273,3 +278,24 @@ li:hover a{
     text-decoration: none;
     color: #439A97 ;
 }
+
+/* tablet  */
+@media screen and (max-width: 1000px) {
+    .section-container-2 {
+        margin-top: 50px;
+        width: 100%;
+        height: 1000px;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+}
+   
+/* Tablet Responsive  */
+
+/* mobile Responsive */
+
+    
+
+
